@@ -1,4 +1,7 @@
 git init
+git remote add origin https://github.com/flowy-data/ShopeeCodeLeagueWorkshops
+git remote -v
+git commit -m "first commit"
 
 git pull --rebase origin master
 git push origin master
