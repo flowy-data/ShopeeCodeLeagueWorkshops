@@ -1,0 +1,15 @@
+git init
+
+git pull --rebase origin master
+git push origin master
+
+git add Coding\ Lab
+git status
+
+
+git add Image\ Processing
+git status
+git commit -m "added Image Processing and Coding Lab Workshops"
+git push
+
+git push --set-upstream origin master
